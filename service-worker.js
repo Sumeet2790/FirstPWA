@@ -1,0 +1,2 @@
+(()=>{"use strict";[{'revision':'02dea79943953de08f8c17c3d1e3eece','url':'/index.html'},{'revision':null,'url':'/static/css/main.f855e6bc.css'},{'revision':null,'url':'/static/js/main.496b942b.js'},{'revision':'06e733283fa43d1dd57738cfc409adbd','url':'/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg'}],Boolean("localhost"===window.location.hostname||"[::1]"===window.location.hostname||window.location.hostname.match(/^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/))})();
+//# sourceMappingURL=service-worker.js.map
